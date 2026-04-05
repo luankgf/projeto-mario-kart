@@ -122,7 +122,7 @@ Neste projeto, foi desenvolvida uma corrida que considera as habilidades dos per
    cd projeto-mario-kart
    ```
 
-3. Em seu terminal e na pasta do projeto
+3. Em seu terminal e na pasta do projeto, execute o projeto:
 
    ```bash
    node src/index.js
