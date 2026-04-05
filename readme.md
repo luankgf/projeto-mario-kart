@@ -112,7 +112,8 @@ Neste projeto, foi desenvolvida uma corrida que considera as habilidades dos per
 1. Clone o repositório:
 
    ```bash
-   git clone [https://github.com/luankgf/projeto-mario-kart]
+   git clone https://github.com/luankgf/projeto-mario-kart.git
+
    ```
 
 2. Navegue até o diretório do projeto:
